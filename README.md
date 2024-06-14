@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A wonderful python developer from Taiwan</h3>
+<h3 align="center">Aweird python developer from Taiwan</h3>
 
 <p align="left">
 </p>
