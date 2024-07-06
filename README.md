@@ -4,7 +4,7 @@
     <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=Cjenf&show_icons=true&theme=nord" /><br />
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cjenf&layout=compact&theme=Nord&locale=cn" /><br /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cjenf&langs_count=8&theme=nord&locale=cn" /><br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cjenf&langs_count=8&theme=nord&locale=en" /><br />
 </p>
 
 
