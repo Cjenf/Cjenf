@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">Aweird python developer from Taiwan</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjenf&langs_count=8&theme=nord&size_weight=2&count_weight=0.5)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjenf&langs_count=8&theme=nord&size_weight=2&count_weight=4)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cjenf&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
