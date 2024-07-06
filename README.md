@@ -2,9 +2,8 @@
 
 <p align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjenf&langs_count=8&theme=nord&size_weight=2&count_weight=4)<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cjenf&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjenf&langs_count=8&theme=nord&size_weight=2&count_weight=4)<br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cjenf&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
