@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cjemf&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cjenf&show_icons=true&theme=radical)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cjenf&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">Aweird python developer from Taiwan</h3>
 
