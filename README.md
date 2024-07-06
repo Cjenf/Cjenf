@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjenf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjenf&theme=nord&layout=donut&size_weight=0.5&count_weight=0.5&exclude_repo=Cjenf)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cjenf&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">Aweird python developer from Taiwan</h3>
 
