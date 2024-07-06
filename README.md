@@ -1,8 +1,10 @@
 <h3 align="center">Aweird python developer from Taiwan</h3>
 
-<p align="center"> 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjenf&langs_count=8&theme=nord&size_weight=2&count_weight=4)<br />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cjenf&theme=nord)](https://github.com/anuraghazra/github-readme-stats)<br />
+<p align="center">
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Cjenf&show_icons=true&theme=nord" /><br />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cjenf&layout=compact&theme=Nord&locale=cn" /><br /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cjenf&langs_count=8&theme=nord&locale=cn" /><br />
 </p>
 
 
