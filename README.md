@@ -1,6 +1,7 @@
 <h3 align="center">Aweird python developer from Taiwan</h3>
 
 [![wakatime](https://wakatime.com/badge/user/4738807c-1bf0-4b7c-9234-cc52794c896e.svg)](https://wakatime.com/@4738807c-1bf0-4b7c-9234-cc52794c896e)
+
 <p align="center">
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjenf&langs_count=8&theme=nord&locale=en" /><br />
