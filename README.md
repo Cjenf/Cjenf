@@ -1,13 +1,8 @@
 ## A Taiwan student who likes programs
 
 ![top-len](https://github-readme-stats.vercel.app/api/top-langs/?username=cjenf&langs_count=8&theme=nord&locale=en)
-![cord](https://github-readme-stats.vercel.app/api?username=cjenf&show_icons=true&theme=nord")
-<p align="center">
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjenf&langs_count=8&theme=nord&locale=en" /><br />
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjenf&layout=compact&theme=Nord&locale=cn" /><br /> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=cjenf&show_icons=true&theme=nord" /><br />
-</p>
+![cord](https://github-readme-stats.vercel.app/api?username=cjenf&show_icons=true&theme=nord)
+
 
 
 <h3 align="left">Languages:</h3>
