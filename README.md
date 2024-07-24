@@ -1,5 +1,5 @@
 ## About me
-🎯 foucsing
+🎯 foucsing<br>
 **A 18yrs Taiwan student who likes programs**
 
 ## Languages and tools
