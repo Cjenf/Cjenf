@@ -1,5 +1,6 @@
 ## About me
-### A 18yrs Taiwan student who likes programs
+🎯 foucsing
+**A 18yrs Taiwan student who likes programs**
 
 ## Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,c#)](https://skillicons.dev)
