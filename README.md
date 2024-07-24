@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0D6F7&background=E5FFEC00&random=true&width=435&lines=print(%22hello%2C+world%22);Here+is+my+Github+account.)](https://git.io/typing-svg)
 ## About me
 - 🎯 Work is underway<br>
 - **A 18yrs Taiwan student who likes programs**
