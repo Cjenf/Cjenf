@@ -1,6 +1,6 @@
 ## About me
 - 🎯 Work is underway<br>
-**A 18yrs Taiwan student who likes programs**
+- **A 18yrs Taiwan student who likes programs**
 
 ## Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,c#)](https://skillicons.dev)
