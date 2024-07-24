@@ -1,5 +1,5 @@
 ## About me
-🎯 foucsing<br>
+- 🎯 Work is underway<br>
 **A 18yrs Taiwan student who likes programs**
 
 ## Languages and tools
